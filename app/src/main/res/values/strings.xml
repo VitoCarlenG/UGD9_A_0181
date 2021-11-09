@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UGD9_A_0181</string>
+    <string name="nama">Nama</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="tambah_produk">Tambah Produk</string>
+    <string name="edit_produk">Edit Produk</string>
+    <string name="loading_text">Loading…</string>
+    <string name="harga">Harga</string>
+    <string name="stok">Stok</string>
+    <string name="deksripsi">Deksripsi</string>
+    <string name="buka_kamera">Buka kamera</string>
+    <string name="pilih_dari_galeri">Pilih dari galeri</string>
+    <string name="nama_produk">Nama Produk</string>
+    <string name="rp99_999_999">Rp99.999.999</string>
+    <string name="stok_99">Stok 99</string>
+</resources>
+
+
